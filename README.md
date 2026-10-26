@@ -1,4 +1,4 @@
-# Family Feud — Retro Classroom Edition
+# Family Feud —  Classroom Edition
 
 A static, offline-capable, keyboard-operated classroom game inspired by Family Feud. Contains all three user-provided energy/environment survey questions and points. No database, WebSockets, npm installation, or remote required.
 
